@@ -3,6 +3,11 @@ spring:
   application:
     name: turbin
     
+  rabbitmq:
+    host: 172.251.7.69
+    port: 5672
+    username: admin
+    password: admin
 server:
   port: 5001
   
