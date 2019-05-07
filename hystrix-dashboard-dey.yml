@@ -1,5 +1,5 @@
 
-pring:
+spring:
   application:
     name: hystrix-dashboard
   rabbitmq:
